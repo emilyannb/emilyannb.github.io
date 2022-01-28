@@ -1,3 +1,14 @@
-h1{
+html {
   background-color: blue;
+}
+
+body {
+  text-align: left;
+}
+
+h1 {
+  color: pink;
+  border: dotted;
+  height: 300px;
+  width: 300px;
 }
