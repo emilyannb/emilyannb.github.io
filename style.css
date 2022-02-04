@@ -1,9 +1,9 @@
 body {
-  background-color: #39E8E0;
+  background-color: #AABFD7;
 }
 
 h1 {
-  color: #7B8585;
+  color: #3A4E64;
   text-align: center;
  font-family: 'Cookie', cursive;
   font-size: 35;
@@ -11,11 +11,16 @@ h1 {
 }
 
 h2 {
-  color: #7B8585;
+  color: #FAFCFF;
   text-align: center;
   font-family: 'Philosopher', sans-serif;
 }
 
 ul {
-  border: inset;
+  border: dotted;
+}
+
+p {
+  text-align: left;
+  color: #000000;
 }
