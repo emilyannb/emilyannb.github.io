@@ -14,3 +14,7 @@ h2 {
   text-align: left;
   font-family: 'Playfair Display', serif;
 }
+
+ul {
+  border: inset;
+}
